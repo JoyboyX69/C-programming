@@ -22,7 +22,7 @@ int main()
     printf("Tax to paid 5% =%d",salary*5/100);
 
 
-    else if(salary<500000 && salary>1000000)
+    else if(salary>500000 && salary<1000000)
     printf("Tax to be paid 10%=%d",salary*10/100);
 
     else
