@@ -12,7 +12,7 @@
 // main file
 int main()
 {
-    // take a variable for 2 loops and input 
+    // take a variable for 2 loops and input with data type integer
     int i,j,n;
 
     // take an input
